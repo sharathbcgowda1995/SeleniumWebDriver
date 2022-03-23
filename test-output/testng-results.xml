@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-03T21:31:23 IST" name="Default suite" finished-at="2022-01-03T21:31:23 IST" duration-ms="73">
+    <groups>
+    </groups>
+    <test started-at="2022-01-03T21:31:23 IST" name="Default test" finished-at="2022-01-03T21:31:23 IST" duration-ms="73">
+      <class name="com.java.advancedjava.concepts.StreamConcepts">
+        <test-method signature="streamMap()[pri:0, instance:com.java.advancedjava.concepts.StreamConcepts@76508ed1]" started-at="2022-01-03T21:31:23 IST" name="streamMap" finished-at="2022-01-03T21:31:23 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamMap -->
+      </class> <!-- com.java.advancedjava.concepts.StreamConcepts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
